@@ -1,0 +1,26 @@
+{
+  "name": "to-do",
+  "description": "An Angular To-Do App",
+  "main": "index.js",
+  "authors": [
+    "Megan Duffy"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "to-do",
+    "angularjs"
+  ],
+  "homepage": "https://github.com/meganduffy/To-Do",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
